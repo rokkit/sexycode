@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Sexycode]]></title>
   <link href="http://rokkit.github.io/sexycode/atom.xml" rel="self"/>
   <link href="http://rokkit.github.io/sexycode/"/>
-  <updated>2013-07-12T01:24:06+04:00</updated>
+  <updated>2013-07-12T01:25:15+04:00</updated>
   <id>http://rokkit.github.io/sexycode/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Maksim]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
