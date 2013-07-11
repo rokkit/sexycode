@@ -4,7 +4,7 @@
   <title><![CDATA[Sexycode]]></title>
   <link href="http://rokkit.github.io/sexycode/atom.xml" rel="self"/>
   <link href="http://rokkit.github.io/sexycode/"/>
-  <updated>2013-07-12T01:34:16+04:00</updated>
+  <updated>2013-07-12T01:44:12+04:00</updated>
   <id>http://rokkit.github.io/sexycode/</id>
   <author>
     <name><![CDATA[Maksim]]></name>
@@ -14,11 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[title]]></title>
+    <title type="html"><![CDATA[Initial commit]]></title>
     <link href="http://rokkit.github.io/sexycode/blog/2013/07/12/title/"/>
     <updated>2013-07-12T00:57:00+04:00</updated>
     <id>http://rokkit.github.io/sexycode/blog/2013/07/12/title</id>
-    <content type="html"><![CDATA[<p>It was whoa</p>
+    <content type="html"><![CDATA[<p>Today, at last I found time between today&rsquo;s work and tomorrow&rsquo;s work. Why this night not to get, as well as it befits the real developer, darling blog. Maybe I will learn to write in English :)</p>
 ]]></content>
   </entry>
   
