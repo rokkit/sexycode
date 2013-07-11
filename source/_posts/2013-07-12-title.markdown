@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Initial commit"
+date: 2013-07-12 00:57
+comments: true
+categories: 
+---
+
+Today, at last I found time between today's work and tomorrow's work. Why this night not to get, as well as it befits the real developer, darling blog. Maybe I will learn to write in English :)
